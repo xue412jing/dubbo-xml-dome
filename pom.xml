@@ -452,7 +452,7 @@
 
       <artifactId>zookeeper</artifactId>
 
-      <version>3.4.9</version>
+      <version>3.4.14</version>
 
     </dependency>
 
